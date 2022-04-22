@@ -1,0 +1,234 @@
+# Dork.txt by pentester
+
+Mots-clés : Dork , php , SQL
+
+PHP, ASP & abruti SQL
+
+PHP
+
+inurl:(0x3a,version
+inurl:(@version,0x3a,databse)
+inurl:(user,0x3a,pass)
+inurl:+union+select+ from
+inurl:+union+select+ pass
+inurl:+union+select+ SHOP
+inurl:+ union+select+ admin
+inurl:index.php?id=
+inurl:trainers.php?id=
+inurl:buy.php?category=
+inurl:article.php?ID=
+inurl:play old.php?id=
+inurl:declaration plus. php?decl id=
+inurl:pageid=
+inurl:games.php?id=
+inurl:page.php?file=
+inurl:newsDetail.php?id=
+inurl:gallery.php?id=
+inurl:article.php?id=
+inurl :show.php?id=
+inurl: id du personnel=
+inurl:newsitem.php?num=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:historialeer.php?num=
+inurl:reagir.php?num=
+inurl:Stray-Questions-View.php ? num=
+inurl:forum bds.php?num=
+inurl:game.php?id=
+inurl:view product.php?id=
+inurl:newsone.php?id=
+inurl:sw comment.php?id=
+inurl:news.php ?id=
+inurl:avd start.php?avd=
+inurl:event.php?id=
+inurl:product-item.php?id=
+inurl:sql.php?id=
+inurl:news view.php?id=
+inurl:select biblio.php?id=
+inurl:humour.php?id=
+inurl:aboutbook.php?id=
+inurl:oglinet.php?ogl id=
+inurl:fiche spectacle.php?id=
+inurl:communique detail.php?id=
+inurl:sem.php3?id=
+inurl:kategorie.php4?id=
+inurl:news.php?id=
+inurl :index.php?id=
+inurl:faq2.php?id=
+inurl:show an.php?id=
+inurl:preview.php?id=
+inurl:loadpsb.php?id=
+inurl:opinions.php?id=
+inurl : spr.php?id=
+inurl:pages.php?id=
+inurl:announce.php?id=
+inurl:clanek.php4?id=
+inurl:participant.php?id=
+inurl:download.php?id=
+inurl:main. php?id=
+inurl:review.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:prod detail.php?id=
+inurl:viewphoto.php?id=
+inurl:article.php?id=
+inurl:person.php?id=
+inurl:productinfo.php?id=
+inurl:showimg.php?id=
+inurl :view.php?id=
+inurl:website.php?id=
+inurl:hosting info.php?id=
+inurl:gallery.php?id=
+inurl:rub.php?idr=
+inurl:view faq.php?id=
+inurl :artikelinfo.php?id=
+inurl:detail.php?ID=
+inurl:index.php?=
+inurl:profile view.php?id=
+inurl:category.php?id=
+inurl:publications.php?id=
+inurl:fellows .php?id=
+inurl:téléchargements info.php?id=
+inurl:prod info.php?id=
+inurl:shop.php?do=part&id=
+inurl:productinfo.php?id=
+inurl:collectionitem.php?id=
+inurl:band info.php?id=
+inurl:product.php?id=
+inurl:releases.php?id =
+inurl:ray.php?id=
+inurl:produit.php?id=
+inurl:pop.php?id=
+inurl:shopping.php?id=
+inurl:productdetail.php?id=
+inurl:post.php?id=
+inurl :viewshowdetail.php?id=
+inurl:clubpage.php?id=
+inurl:memberInfo.php?id=
+inurl:section.php?id=
+inurl:theme.php?id=
+inurl:page.php?id=
+inurl:shredder -categories.php?id=
+inurl:tradeCategory.php?id=
+inurl: gammes de produits view.php?ID=
+inurl:shop category.php?id=
+inurl:transcript.php?id=
+inurl:channel id=
+inurl:item id=
+inurl:newsid=
+inurl:trainers.php?id=
+inurl:news-full.php?id=
+inurl :news display.php?getid=
+inurl:index2.php?option=
+inurl:readnews.php?id=
+inurl:top10.php?cat=
+inurl:newsone.php?id=
+inurl:event.php?id=
+inurl : product-item.php?id=
+inurl:sql.php?id=
+inurl:aboutbook.php?id=
+inurl:preview.php?id=
+inurl:loadpsb.php?id=
+inurl:pages.php?id=
+inurl : material.php?id=
+inurl:clanek.php4?id=
+inurl:announce.php?id=
+inurl:chappies.php?id=
+inurl:read.php?id=
+inurl:viewapp.php?id=
+inurl:viewphoto.php?id=
+inurl:rub.php?idr=
+inurl:galeri info.php?l=
+inurl :review.php?id=
+inurl:iniziativa.php?in=
+inurl:curriculum.php?id=
+inurl:labels.php?id=
+inurl:story.php?id=
+inurl:look.php?ID=
+inurl:newsone .php?id=
+inurl:aboutbook.php?id=
+inurl:material.php?id=
+inurl:opinions.php?id=
+inurl:announce.php?id=
+inurl:rub.php?idr=
+inurl:galeri info. php?l=
+inurl:tekst.php?idt=
+inurl:newscat.php?id=
+inurl:newsticker info.php?idn=
+inurl:rubrika.php?idr=
+inurl:rubp.php?idr=
+inurl:offer.php?idf=
+inurl:art.php?idm=
+inurl:title.php?id=
+inurl:recruter details.php?id=
+inurl :index.php?cPath=
+
+ASP
+
+".asp?bookID="
+".asp?cart="
+".asp?cartID="
+".asp?catalogid="
+".asp?category list="
+".asp?CategoryID= "
+".asp?catID="
+".asp?cid="
+".asp?code no="
+".asp?code="
+".asp?designer="
+".asp?framecode="
+".asp?id= "
+".asp?idcategory="
+".asp?idproduct="
+".asp?intCatalogID="
+".asp?intProdId="
+".asp?itemid="
+".asp?item="
+".asp?itemID="
+".asp?maingroup="
+".asp?misc="
+".asp?newsid="
+".asp? id de commande="
+".asp? p="
+".asp?pid="
+".asp?ProdID="
+".asp? id du produit="
+".asp?product="
+" .asp?idduproduit=" "
+.asp?showtopic="
+".asp? Sku="
+".asp?storeid="
+".asp?style id="
+".asp?StyleID="
+".asp?userID="
+"about.asp?cartID="
+"accinfo.asp?cartId="
+"acclogin .asp?cartID="
+"add.asp?bookid="
+"add cart.asp?num="
+"addcart.asp?"
+"addItem.asp"
+"add-to-cart.asp?ID="
+"addToCart.asp?idProduct="
+"addtomylist.asp?ProdId="
+"adminEditProductFields.asp?intProdID="
+"advSearch h.asp?idCategory="
+"affiliate.asp?ID="
+"affiliate-agreement.cfm?storeid= "
+"affiliates.asp?id="
+"ancillary.asp?ID="
+"archive.asp?id="
+"article.asp?id="
+"aspx?PageID"
+"basket.asp?id="
+"Livre.asp ?bookID="
+"book list.asp?bookid="
+"book view.asp?bookid="
+"BookDetails.asp?ID="
+"browse.asp?catid="
+"parcourir les détails de l' article.asp"
+"Parcourir les détails de l'article.asp? Store Id=" " buy.asp ?"
+
+"buy.asp?bookid="
+"bycategory.asp?id="
+"c
